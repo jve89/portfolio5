@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npx create-react-app my-app --use-npm`
+
+Create react app using NPM (boiler plate).
+
+### `cd my-app`
+
+To run this app, first change the directory into the my-app folder (or own app name) to enter the app folder.
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +76,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# React Project Example
+
+To use this repository:
+- Click the "Use this template" button in the upper right
+- Choose a name for your repository and create it
+- In your own repository, click the green "Gitpod" button
